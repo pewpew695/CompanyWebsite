@@ -83,8 +83,21 @@ header {
     flex-wrap: wrap;
 }
 
-.img img{
+.sectionthree {
+    background-color: #E5E7EB;
+    padding: 50px 400px;
+}
 
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.person {
+    color:#1f2937;
+    font-weight: bold;
+    text-align: end;
 }
 /*
 .container {
