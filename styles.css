@@ -45,6 +45,47 @@ header {
     justify-content: space-between;
     
 } 
+
+.sectiontwo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.infoheader {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+.infosect {
+    display: flex;
+    gap:40px;
+}
+
+.img{
+   display: flex;
+  
+   flex-wrap: wrap;
+  
+   width: 150px;
+}
+
+.img p {
+    text-align:center;
+    
+}
+
+.img img {
+    border-radius: 15px;
+}
+
+.info p{
+    flex-wrap: wrap;
+}
+
+.img img{
+
+}
 /*
 .container {
     display: flex;
