@@ -1,0 +1,58 @@
+body {
+    font-family: roboto
+}
+
+.sectionone, header,footer {
+    background-color: #1f2937;
+    color: white;
+    padding: 20px 200px;
+}
+
+.sectionone .container h1 {
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.sectionone .container p, a {
+    color: #E5E7EB;
+    font-size: 24px;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+h3 {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+header {
+    display: flex;
+    
+    justify-content:space-between;
+    align-items: center;
+}
+
+.sectionone {
+    display: flex;
+    justify-content: space-between;
+    
+} 
+/*
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+} */
+
+footer {
+   display: flex;
+    justify-content: center;
+}
